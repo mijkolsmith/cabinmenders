@@ -1,0 +1,1549 @@
+fileFormatVersion: 2
+guid: 9ec90972225670447a9b7d63d9a3147f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6901935476931728722
+    second: Ductapespritesheet_0
+  - first:
+      213: -1292654715448234143
+    second: Ductapespritesheet_1
+  - first:
+      213: 9125790578710225795
+    second: Ductapespritesheet_2
+  - first:
+      213: -2591269693567445720
+    second: Ductapespritesheet_3
+  - first:
+      213: 3555067620481296972
+    second: Ductapespritesheet_4
+  - first:
+      213: 2832081876368764178
+    second: Ductapespritesheet_5
+  - first:
+      213: -8468275439908985436
+    second: Ductapespritesheet_6
+  - first:
+      213: 4625995519917141347
+    second: Ductapespritesheet_7
+  - first:
+      213: -1083396417367080123
+    second: Ductapespritesheet_8
+  - first:
+      213: 2951273287698735835
+    second: Ductapespritesheet_9
+  - first:
+      213: 6583373711326332379
+    second: Ductapespritesheet_10
+  - first:
+      213: -7027758705332751578
+    second: Ductapespritesheet_11
+  - first:
+      213: 4588191702418231472
+    second: Ductapespritesheet_12
+  - first:
+      213: -4515497482528968543
+    second: Ductapespritesheet_13
+  - first:
+      213: 913054050475352027
+    second: Ductapespritesheet_14
+  - first:
+      213: -2377552124840685832
+    second: Ductapespritesheet_15
+  - first:
+      213: 9065198170607339584
+    second: Ductapespritesheet_16
+  - first:
+      213: 5688492322146594800
+    second: Ductapespritesheet_17
+  - first:
+      213: -2669915775865902043
+    second: Ductapespritesheet_18
+  - first:
+      213: 4311588905734087484
+    second: Ductapespritesheet_19
+  - first:
+      213: 1278797271763354168
+    second: Ductapespritesheet_20
+  - first:
+      213: 2159449343677020755
+    second: Ductapespritesheet_21
+  - first:
+      213: -5083540722839896673
+    second: Ductapespritesheet_22
+  - first:
+      213: -1193956810299551646
+    second: Ductapespritesheet_23
+  - first:
+      213: 4118082193844509113
+    second: Ductapespritesheet_24
+  - first:
+      213: -8549067246955901736
+    second: Ductapespritesheet_25
+  - first:
+      213: -412581121056807495
+    second: Ductapespritesheet_26
+  - first:
+      213: -3061556948685567282
+    second: Ductapespritesheet_27
+  - first:
+      213: 2917462668072711966
+    second: Ductapespritesheet_28
+  - first:
+      213: 8769594717319006652
+    second: Ductapespritesheet_29
+  - first:
+      213: -2699615904643176637
+    second: Ductapespritesheet_30
+  - first:
+      213: 3523229051497267737
+    second: Ductapespritesheet_31
+  - first:
+      213: -7951663906877758917
+    second: Ductapespritesheet_32
+  - first:
+      213: -8208068722201085569
+    second: Ductapespritesheet_33
+  - first:
+      213: -5819111424467433038
+    second: Ductapespritesheet_34
+  - first:
+      213: 6990241184128094174
+    second: Ductapespritesheet_35
+  - first:
+      213: -1948495828013940786
+    second: Ductapespritesheet_36
+  - first:
+      213: -1152717181537299859
+    second: Ductapespritesheet_37
+  - first:
+      213: 8180887009207927745
+    second: Ductapespritesheet_38
+  - first:
+      213: 7092990059883212440
+    second: Ductapespritesheet_39
+  - first:
+      213: -3288275125512588696
+    second: Ductapespritesheet_40
+  - first:
+      213: -4358289090812537855
+    second: Ductapespritesheet_41
+  - first:
+      213: 4313986021716028684
+    second: Ductapespritesheet_42
+  - first:
+      213: -1293371433793327405
+    second: Ductapespritesheet_43
+  - first:
+      213: 8028389711442545002
+    second: Ductapespritesheet_44
+  - first:
+      213: 6934877813160307102
+    second: Ductapespritesheet_45
+  - first:
+      213: 2344887808713616852
+    second: Ductapespritesheet_46
+  - first:
+      213: -7255336570829636546
+    second: Ductapespritesheet_47
+  - first:
+      213: 3254411871258618924
+    second: Ductapespritesheet_48
+  - first:
+      213: 3290842257637702712
+    second: Ductapespritesheet_49
+  - first:
+      213: -473845444899432622
+    second: Ductapespritesheet_50
+  - first:
+      213: -8131354881751376191
+    second: Ductapespritesheet_51
+  - first:
+      213: -9108014939381683725
+    second: Ductapespritesheet_52
+  - first:
+      213: -261114168526955964
+    second: Ductapespritesheet_53
+  - first:
+      213: -2864574011838628492
+    second: Ductapespritesheet_54
+  - first:
+      213: -9003627328473009827
+    second: Ductapespritesheet_55
+  - first:
+      213: 3819089994990825510
+    second: Ductapespritesheet_56
+  - first:
+      213: -5721285351070583872
+    second: Ductapespritesheet_57
+  - first:
+      213: -2298634001282458002
+    second: Ductapespritesheet_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ductapespritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2089
+        width: 397
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa61d270466730a0800000000000000
+      internalID: -6901935476931728722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2347
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f697492619f0ee0800000000000000
+      internalID: -1292654715448234143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2090
+        width: 404
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38321aa4e2255ae70800000000000000
+      internalID: 9125790578710225795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2086
+        width: 405
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255dad51f5f90cd0800000000000000
+      internalID: -2591269693567445720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2349
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae74f4a23265130800000000000000
+      internalID: 3555067620481296972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2080
+        width: 400
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d28c726739d4720800000000000000
+      internalID: 2832081876368764178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2079
+        width: 401
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a56f00ba54aa7a80800000000000000
+      internalID: -8468275439908985436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2073
+        width: 399
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da5317a66d23040800000000000000
+      internalID: 4625995519917141347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2343
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54387efc2b007f0f0800000000000000
+      internalID: -1083396417367080123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e16c2b6705f820800000000000000
+      internalID: 2951273287698735835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2309
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5404f9287dc5b50800000000000000
+      internalID: 6583373711326332379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2326
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237b7131b2687e90800000000000000
+      internalID: -7027758705332751578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2335
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b098084b088caf30800000000000000
+      internalID: 4588191702418231472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2302
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b0b9b6fab551c0800000000000000
+      internalID: -4515497482528968543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2307
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf905342d1dbac00800000000000000
+      internalID: 913054050475352027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2328
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe45e370fc310fd0800000000000000
+      internalID: -2377552124840685832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2325
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484299e4bd0ecd70800000000000000
+      internalID: 9065198170607339584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2288
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa519c0a591fe40800000000000000
+      internalID: 5688492322146594800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2302
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2d476fbd82fad0800000000000000
+      internalID: -2669915775865902043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2294
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33abc71447d5db30800000000000000
+      internalID: 4311588905734087484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1481
+        width: 400
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328133e7533fb110800000000000000
+      internalID: 1278797271763354168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1478
+        width: 437
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab150acb7e7fd10800000000000000
+      internalID: 2159449343677020755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1501
+        width: 533
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d35e575a2a379b0800000000000000
+      internalID: -5083540722839896673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1478
+        width: 437
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260dfec5b963e6fe0800000000000000
+      internalID: -1193956810299551646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1479
+        width: 431
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b996ffcfed562930800000000000000
+      internalID: 4118082193844509113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 1697
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc444042ac9b5980800000000000000
+      internalID: -8549067246955901736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 855
+        width: 454
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5606608a7364af0800000000000000
+      internalID: -412581121056807495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 850
+        width: 422
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac7fd0d2a2385d0800000000000000
+      internalID: -3061556948685567282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1109
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ffe7d6d8ec7820800000000000000
+      internalID: 2917462668072711966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 848
+        width: 404
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb901fd9eebd3b970800000000000000
+      internalID: 8769594717319006652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1107
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347afbd43a9098ad0800000000000000
+      internalID: -2699615904643176637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 848
+        width: 405
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c4dcc72605e030800000000000000
+      internalID: 3523229051497267737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1107
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32a1417ec306a190800000000000000
+      internalID: -7951663906877758917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 848
+        width: 397
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b5314cf4171e80800000000000000
+      internalID: -8208068722201085569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1107
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9833c8dfc5e3fa0800000000000000
+      internalID: -5819111424467433038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1068
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc2423253520160800000000000000
+      internalID: 6990241184128094174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1097
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff5e43e5d85f4e0800000000000000
+      internalID: -1948495828013940786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1097
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62dafba4d9b000f0800000000000000
+      internalID: -1152717181537299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 1067
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c342730469588170800000000000000
+      internalID: 8180887009207927745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1067
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e27b211ec5f6260800000000000000
+      internalID: 7092990059883212440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1067
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b1140233bd52d0800000000000000
+      internalID: -3288275125512588696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 185
+        width: 397
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10498a1c92f3483c0800000000000000
+      internalID: -4358289090812537855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 185
+        width: 396
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d62662e6b5edb30800000000000000
+      internalID: 4313986021716028684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 184
+        width: 404
+        height: 646
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49108315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de6c1698850d0ee0800000000000000
+      internalID: -1293371433793327405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 180
+        width: 396
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5145464, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996826e0a2ad3060800000000000000
+      internalID: 6934877813160307102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 443
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7cc944dddf4b90800000000000000
+      internalID: -7255336570829636546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 443
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2f23ba5ef92d20800000000000000
+      internalID: 3254411871258618924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 443
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf652099b6bad20800000000000000
+      internalID: 3290842257637702712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 439
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257155214109c69f0800000000000000
+      internalID: -473845444899432622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 433
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce129a11df972f80800000000000000
+      internalID: -8131354881751376191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 433
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f924314ba4d99180800000000000000
+      internalID: -9108014939381683725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 402
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a11231c06506cf0800000000000000
+      internalID: -261114168526955964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 429
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dfa870d1dfe38d0800000000000000
+      internalID: -2864574011838628492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 402
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51fd54e5a0bc0380800000000000000
+      internalID: -9003627328473009827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 402
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203da4bd12200530800000000000000
+      internalID: 3819089994990825510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 422
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3bace2949e990b0800000000000000
+      internalID: -5721285351070583872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ductapespritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 398
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9ce4fd8c9910e0800000000000000
+      internalID: -2298634001282458002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

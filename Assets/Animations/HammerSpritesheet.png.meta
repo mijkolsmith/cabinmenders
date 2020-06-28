@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 2f054a09b7df20a40b5ae2fcabe0e26d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6942394611116862223
+    second: HammerSpritesheet_0
+  - first:
+      213: -5773717469744058123
+    second: HammerSpritesheet_1
+  - first:
+      213: 7570929665952948069
+    second: HammerSpritesheet_2
+  - first:
+      213: -922371633074186257
+    second: HammerSpritesheet_3
+  - first:
+      213: -3963063050895203795
+    second: HammerSpritesheet_4
+  - first:
+      213: 3122127759671668035
+    second: HammerSpritesheet_5
+  - first:
+      213: -3838585347623886575
+    second: HammerSpritesheet_6
+  - first:
+      213: 8689363575795663781
+    second: HammerSpritesheet_7
+  - first:
+      213: 155837005499641606
+    second: HammerSpritesheet_8
+  - first:
+      213: -5970797795349725537
+    second: HammerSpritesheet_9
+  - first:
+      213: -1805547554914163343
+    second: HammerSpritesheet_10
+  - first:
+      213: 7352505495157490489
+    second: HammerSpritesheet_11
+  - first:
+      213: -6475408513932307284
+    second: HammerSpritesheet_12
+  - first:
+      213: 428485092270863523
+    second: HammerSpritesheet_13
+  - first:
+      213: -6574736007698417908
+    second: HammerSpritesheet_14
+  - first:
+      213: 8044128423628382208
+    second: HammerSpritesheet_15
+  - first:
+      213: -2440965383701025566
+    second: HammerSpritesheet_16
+  - first:
+      213: -3697349206981037064
+    second: HammerSpritesheet_17
+  - first:
+      213: -7797402415467163332
+    second: HammerSpritesheet_18
+  - first:
+      213: 5456727959481796532
+    second: HammerSpritesheet_19
+  - first:
+      213: 6749591889208761779
+    second: HammerSpritesheet_20
+  - first:
+      213: 2530636356717737265
+    second: HammerSpritesheet_21
+  - first:
+      213: 6810058653075926573
+    second: HammerSpritesheet_22
+  - first:
+      213: -3425149138284360276
+    second: HammerSpritesheet_23
+  - first:
+      213: -8285097407103021542
+    second: HammerSpritesheet_24
+  - first:
+      213: -1535157588887829492
+    second: HammerSpritesheet_25
+  - first:
+      213: -4652152999474088847
+    second: HammerSpritesheet_26
+  - first:
+      213: 2596390718213075685
+    second: HammerSpritesheet_27
+  - first:
+      213: -7970514139236922642
+    second: HammerSpritesheet_28
+  - first:
+      213: -4249797452742393433
+    second: HammerSpritesheet_29
+  - first:
+      213: 5892295288324360536
+    second: HammerSpritesheet_30
+  - first:
+      213: 3042272381063511159
+    second: HammerSpritesheet_31
+  - first:
+      213: -3949069839106194406
+    second: HammerSpritesheet_32
+  - first:
+      213: 8091774595432765798
+    second: HammerSpritesheet_33
+  - first:
+      213: 289341847465977670
+    second: HammerSpritesheet_34
+  - first:
+      213: 5509470615992356898
+    second: HammerSpritesheet_35
+  - first:
+      213: 4681226643622951410
+    second: HammerSpritesheet_36
+  - first:
+      213: 7209121469356072450
+    second: HammerSpritesheet_37
+  - first:
+      213: -2284387888388393707
+    second: HammerSpritesheet_38
+  - first:
+      213: 8681986871734267345
+    second: HammerSpritesheet_39
+  - first:
+      213: 3579161186403586409
+    second: HammerSpritesheet_40
+  - first:
+      213: 6271789676424381561
+    second: HammerSpritesheet_41
+  - first:
+      213: 8825399816276686616
+    second: HammerSpritesheet_42
+  - first:
+      213: -555218229360073210
+    second: HammerSpritesheet_43
+  - first:
+      213: 9028803519317008567
+    second: HammerSpritesheet_44
+  - first:
+      213: -423008232400271745
+    second: HammerSpritesheet_45
+  - first:
+      213: 3044892418863324559
+    second: HammerSpritesheet_46
+  - first:
+      213: 7171142130668152918
+    second: HammerSpritesheet_47
+  - first:
+      213: -3999151437411920553
+    second: HammerSpritesheet_48
+  - first:
+      213: 7655063692931703407
+    second: HammerSpritesheet_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HammerSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4638
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be43ecd17585060800000000000000
+      internalID: 6942394611116862223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3483
+        width: 712
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0307e3d82afdfa0800000000000000
+      internalID: -5773717469744058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 3486
+        width: 719
+        height: 1285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f979e2b68511960800000000000000
+      internalID: 7570929665952948069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 4640
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe757bbf2e31333f0800000000000000
+      internalID: -922371633074186257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3484
+        width: 712
+        height: 1285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226ae4072f5009c0800000000000000
+      internalID: -3963063050895203795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 3477
+        width: 675
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dad9ad7a6045b20800000000000000
+      internalID: 3122127759671668035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 3500
+        width: 676
+        height: 1259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ebdac6fa9abac0800000000000000
+      internalID: -3838585347623886575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 3472
+        width: 740
+        height: 1286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c48b4222d69870800000000000000
+      internalID: 8689363575795663781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 4631
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faaab4ee4a92200800000000000000
+      internalID: 155837005499641606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 4275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e7e7e2a07732da0800000000000000
+      internalID: -5970797795349725537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 4255
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752444a01861f6e0800000000000000
+      internalID: -1805547554914163343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 4258
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93348f7eac8590660800000000000000
+      internalID: 7352505495157490489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 4224
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45687c34ab226a0800000000000000
+      internalID: -6475408513932307284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 3512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4fa54dbe842f500800000000000000
+      internalID: 428485092270863523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3514
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077a297f68d1c4a0800000000000000
+      internalID: -6574736007698417908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 3493
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002ef18e2c72af60800000000000000
+      internalID: 8044128423628382208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 3485
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca9739ae2ff1ed0800000000000000
+      internalID: -2440965383701025566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 3502
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b2535c7060bcc0800000000000000
+      internalID: -3697349206981037064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 3485
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c319e47c0df0ac390800000000000000
+      internalID: -7797402415467163332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 3485
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7cadc0b213abb40800000000000000
+      internalID: 5456727959481796532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 3490
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5527ff0e5bad50800000000000000
+      internalID: 6749591889208761779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3495
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13579d9cb50ae1320800000000000000
+      internalID: 2530636356717737265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 3488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e6a248340328e50800000000000000
+      internalID: 6810058653075926573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 3485
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad43d5810d6770d0800000000000000
+      internalID: -3425149138284360276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3282
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4d18fdcb650d80800000000000000
+      internalID: -8285097407103021542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2183
+        width: 739
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0488187e4602bae0800000000000000
+      internalID: -1535157588887829492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2113
+        width: 716
+        height: 1241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743491ce7b307fb0800000000000000
+      internalID: -4652152999474088847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2091
+        width: 713
+        height: 1388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e236391a9b380420800000000000000
+      internalID: 2596390718213075685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2117
+        width: 928
+        height: 1203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0e85be9b036190800000000000000
+      internalID: -7970514139236922642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 3068
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10eedabbfa505c0800000000000000
+      internalID: -4249797452742393433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 3057
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85908449853a5c150800000000000000
+      internalID: 5892295288324360536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 2118
+        width: 1184
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb547ac92583a20800000000000000
+      internalID: 3042272381063511159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 3032
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14cdd687e51239c0800000000000000
+      internalID: -3949069839106194406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 3027
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669dc4b5f12cb4070800000000000000
+      internalID: 8091774595432765798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2969
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476dd490e2f30400800000000000000
+      internalID: 289341847465977670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2928
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205da6b552957c40800000000000000
+      internalID: 5509470615992356898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97d3684de07f040800000000000000
+      internalID: 4681226643622951410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2151
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5c93e7c1fb0460800000000000000
+      internalID: 7209121469356072450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2160
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b76791593c40e0800000000000000
+      internalID: -2284387888388393707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2151
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd635a8f0d9c7870800000000000000
+      internalID: 8681986871734267345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619375c22cbba130800000000000000
+      internalID: 3579161186403586409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2136
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974cc393b7fd90750800000000000000
+      internalID: 6271789676424381561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2131
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81738f9bf5e1a7a70800000000000000
+      internalID: 8825399816276686616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2156
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606eb2a46f77b48f0800000000000000
+      internalID: -555218229360073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2136
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0efa3d6f0cc4d70800000000000000
+      internalID: 9028803519317008567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1940
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7647baf04c212af0800000000000000
+      internalID: -423008232400271745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1201
+        width: 1231
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd0adb581a14a20800000000000000
+      internalID: 3044892418863324559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 1271
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658205406c3058360800000000000000
+      internalID: 7171142130668152918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1490
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755d112c4f82088c0800000000000000
+      internalID: -3999151437411920553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1194
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622f26dedf3c3a60800000000000000
+      internalID: 7655063692931703407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
