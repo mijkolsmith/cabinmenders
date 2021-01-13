@@ -1,9 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-public class Timer : MonoBehaviour
+
+public class ScoreTimer : MonoBehaviour
 {
     float timer = 0f;
     Text time;
@@ -16,7 +15,11 @@ public class Timer : MonoBehaviour
 
     void Update()
     {
-        ComponentGetter();
+		if (time == null)
+		{
+			ComponentGetter();
+		}
+        
         if (playing == true &&
 		   (SceneManager.GetActiveScene().name == "Tutorial_v2" || 
 			SceneManager.GetActiveScene().name == "Level1_v2" || 
@@ -34,7 +37,6 @@ public class Timer : MonoBehaviour
         minutes = Mathf.Floor(timer / 60).ToString("00");
         seconds = Mathf.RoundToInt((timer % 60)).ToString("00");
         secondsPassed = Mathf.RoundToInt(timer);
-        //Debug.Log(secondsPassed);
 
         if (GameObject.Find("Text") != null &&
 			(SceneManager.GetActiveScene().name == "Tutorial_v2" ||

@@ -8,22 +8,19 @@ public class CharacterValues : MonoBehaviour
     [SerializeField]
     private GameObject player1;
 	private CharacterSelection player1cs;
-
-
-	public int _characterNumber1;
+	public int cNumber1;
 
     [Space]
     [Header("Player 2 Values")]
     [SerializeField]
     private GameObject player2;
 	private CharacterSelection player2cs;
-
-	public int _characterNumber2;
+	public int cNumber2;
 
 	private void Start()
 	{
-		_characterNumber1 = 0;
-		_characterNumber2 = 1;
+		cNumber1 = 0;
+		cNumber2 = 1;
 	}
 
     private void Update()
@@ -36,7 +33,7 @@ public class CharacterValues : MonoBehaviour
 		{
 			if (player1cs == null)
 				player1cs = player1.GetComponent<CharacterSelection>();
-			_characterNumber1 = player1cs._number;
+			cNumber1 = player1cs._number;
 		}
         
 		if (player2 == null)
@@ -47,7 +44,7 @@ public class CharacterValues : MonoBehaviour
 		{
 			if (player2cs == null)
 				player2cs = player2.GetComponent<CharacterSelection>();
-			_characterNumber2 = player2cs._number;
+			cNumber2 = player2cs._number;
 		}
 	}
 }

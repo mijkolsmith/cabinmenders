@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class StartGame : MonoBehaviour
+public class NextLevel : MonoBehaviour
 {
     [SerializeField]
     private int levelToLoad;
 
-    public void GameStart()
+    public void LoadScene()
     {
         SceneManager.LoadScene(levelToLoad);
     }

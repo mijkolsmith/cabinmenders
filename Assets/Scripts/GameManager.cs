@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
         instance = this;
         if (instance != this && instance != null)
         {
-            Debug.Log("GameManager detected in this scene");
+            Debug.Log("GameManager detected in this scene, please remove it");
             Destroy(gameObject);
         }
         DontDestroyOnLoad(gameObject);

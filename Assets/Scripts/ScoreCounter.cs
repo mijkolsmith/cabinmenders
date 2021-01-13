@@ -1,30 +1,30 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ScoreCounter : MonoBehaviour
 {
-    [SerializeField]
-    int count;
-    [SerializeField]
-    int points = 0;
-    private GameObject _gm;
-    public GameObject star;
-    public GameObject noStar;
+    [SerializeField] private int count;
+    [SerializeField] private int points = 0;
+    private GameObject gm;
+	[SerializeField] private GameObject star;
+	[SerializeField] private GameObject noStar;
 
     void Start()
     {
-		_gm = GameManager.instance.gameObject;
+		gm = GameManager.instance.gameObject;
         count = GameObject.FindGameObjectsWithTag("Ceramic").Length + GameObject.FindGameObjectsWithTag("Wood").Length + GameObject.FindGameObjectsWithTag("Cloth").Length;
     }
 
     void Update()
-    {
-        if (count == 0)
-        {
-            _gm.GetComponent<Timer>().playing = false;
-            for (int i = 90; i > _gm.GetComponent<Timer>().secondsPassed; i-=30)
+	{
+		if (count > 0)
+		{//update the count
+			count = GameObject.FindGameObjectsWithTag("Ceramic").Length + GameObject.FindGameObjectsWithTag("Wood").Length + GameObject.FindGameObjectsWithTag("Cloth").Length;
+		}
+		else if (count == 0)
+        {//if all objects have been fixed display the score
+            gm.GetComponent<ScoreTimer>().playing = false;
+            for (int i = 90; i > gm.GetComponent<ScoreTimer>().secondsPassed; i -= 30)
             {
                 points++;
             }
@@ -40,14 +40,11 @@ public class ScoreCounter : MonoBehaviour
             count--;
             Time.timeScale = 0;
         }
-        else if (count > 0)
-        {
-            count = GameObject.FindGameObjectsWithTag("Ceramic").Length + GameObject.FindGameObjectsWithTag("Wood").Length + GameObject.FindGameObjectsWithTag("Cloth").Length;
-        }
         if (Input.anyKeyDown && count == -1)
-        {
+        {//go to next level
             Time.timeScale = 1;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+			gm.GetComponent<ScoreTimer>().playing = true;
+			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
