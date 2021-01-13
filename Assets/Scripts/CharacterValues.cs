@@ -7,26 +7,47 @@ public class CharacterValues : MonoBehaviour
     [Header("Player 1 Values")]
     [SerializeField]
     private GameObject player1;
-   
-    public int _characterNumber1;
+	private CharacterSelection player1cs;
+
+
+	public int _characterNumber1;
 
     [Space]
     [Header("Player 2 Values")]
     [SerializeField]
     private GameObject player2;
-    
-    public int _characterNumber2;
+	private CharacterSelection player2cs;
+
+	public int _characterNumber2;
+
+	private void Start()
+	{
+		_characterNumber1 = 0;
+		_characterNumber2 = 1;
+	}
 
     private void Update()
     {
-        player1 = GameObject.Find("PlayerUI");
-        if (player1 != null)
-            _characterNumber1 = player1.GetComponent<CharacterSelection>()._number;
-
-        player2 = GameObject.Find("PlayerUI (1)");
-        if (player2 != null)
-            _characterNumber2 = player2.GetComponent<CharacterSelection>()._number;
-
+		if (player1 == null)
+		{
+			player1 = GameObject.Find("Player1UI");
+		}
+		else if (player1 != null)
+		{
+			if (player1cs == null)
+				player1cs = player1.GetComponent<CharacterSelection>();
+			_characterNumber1 = player1cs._number;
+		}
         
-    }
+		if (player2 == null)
+		{
+			player2 = GameObject.Find("Player2UI");
+		}
+		else if (player2 != null)
+		{
+			if (player2cs == null)
+				player2cs = player2.GetComponent<CharacterSelection>();
+			_characterNumber2 = player2cs._number;
+		}
+	}
 }

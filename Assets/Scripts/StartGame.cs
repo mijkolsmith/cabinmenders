@@ -6,18 +6,10 @@ using UnityEngine.SceneManagement;
 public class StartGame : MonoBehaviour
 {
     [SerializeField]
-    private int level;
-
-    private void Update()
-    {
-        if (Input.anyKey)
-        {
-            GameStart();
-        }
-    }
+    private int levelToLoad;
 
     public void GameStart()
     {
-        SceneManager.LoadScene(level);
+        SceneManager.LoadScene(levelToLoad);
     }
 }

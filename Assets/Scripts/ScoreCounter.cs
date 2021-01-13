@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class ScoreCounter : MonoBehaviour
 {
     [SerializeField]
-    int count = 0;
+    int count;
     [SerializeField]
     int points = 0;
     private GameObject _gm;
@@ -15,7 +15,7 @@ public class ScoreCounter : MonoBehaviour
 
     void Start()
     {
-        _gm = GameObject.Find("GameManager(Clone)");
+		_gm = GameManager.instance.gameObject;
         count = GameObject.FindGameObjectsWithTag("Ceramic").Length + GameObject.FindGameObjectsWithTag("Wood").Length + GameObject.FindGameObjectsWithTag("Cloth").Length;
     }
 

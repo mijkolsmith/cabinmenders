@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
         instance = this;
         if (instance != this && instance != null)
         {
-            Debug.Log("bruh");
+            Debug.Log("GameManager detected in this scene");
             Destroy(gameObject);
         }
         DontDestroyOnLoad(gameObject);
@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
+		//cheats for playtesting
         if (Input.GetKeyDown("1"))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);

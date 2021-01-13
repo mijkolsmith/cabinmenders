@@ -412,7 +412,7 @@ GameObject:
   - component: {fileID: 161433177}
   - component: {fileID: 161433176}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: TutorialPlayer2Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -693,7 +693,7 @@ GameObject:
   - component: {fileID: 319694341}
   - component: {fileID: 319694340}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: CountDownText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1409,7 +1409,7 @@ GameObject:
   - component: {fileID: 732512685}
   - component: {fileID: 732512684}
   m_Layer: 5
-  m_Name: Image
+  m_Name: TutorialPlayer1Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1482,7 +1482,7 @@ GameObject:
   - component: {fileID: 781661739}
   - component: {fileID: 781661737}
   m_Layer: 5
-  m_Name: PlayerUI (1)
+  m_Name: Player2UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1982,7 +1982,7 @@ GameObject:
   - component: {fileID: 1407958603}
   - component: {fileID: 1407958602}
   m_Layer: 5
-  m_Name: Textt
+  m_Name: SameCharacterText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2004,7 +2004,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5, y: 176}
+  m_AnchoredPosition: {x: -5, y: 300.9}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1407958602
@@ -2405,7 +2405,7 @@ GameObject:
   - component: {fileID: 2019822939}
   - component: {fileID: 2019822940}
   m_Layer: 5
-  m_Name: PlayerUI
+  m_Name: Player1UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

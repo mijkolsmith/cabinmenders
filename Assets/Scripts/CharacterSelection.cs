@@ -12,7 +12,6 @@ public class CharacterSelection : MonoBehaviour
     [SerializeField]
     private string _down;
 
-
     [SerializeField]
     private Text _characterText;
 

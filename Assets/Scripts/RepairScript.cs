@@ -16,7 +16,7 @@ public class RepairScript : MonoBehaviour
     [SerializeField]
     private GameObject _gm;
     [SerializeField]
-    string tag;
+    string repairTag;
 
     AudioSource audioSource;
 
@@ -27,91 +27,103 @@ public class RepairScript : MonoBehaviour
     [SerializeField]
     AudioClip nailClip;
 
-    private void Start()
+	private Animator animator;
+	private int cNumber1;
+	private int cNumber2;
+	private bool repairButtonDown;
+
+	private void Start()
     {
         repairString = transform.parent.name + " Repair";
-        _gm = GameObject.Find("GameManager(Clone)");
-
-        audioSource = GetComponent<AudioSource>();
-    }
+		_gm = GameManager.instance.gameObject;
+		animator = GetComponent<CharacterController2D>().anime;
+		audioSource = GetComponent<AudioSource>();
+		cNumber1 = _gm.GetComponent<CharacterValues>()._characterNumber1;
+		cNumber2 = _gm.GetComponent<CharacterValues>()._characterNumber2;
+	}
 
     private void Update()
     {
-        if (repairing)
+		if (Input.GetButton(repairString))
+		{
+			repairButtonDown = true;
+		}
+		else
+		{
+			repairButtonDown = false;
+		}
+
+		if (repairing)
         {
-            if (Input.GetButtonUp(repairString) || Input.GetAxisRaw(GetComponent<MoveScript>().horizontalString) != 0 || controller.m_Rigidbody2D.velocity.y > 0)
+            if (repairButtonDown = false || Input.GetAxisRaw(GetComponent<MoveScript>().horizontalString) != 0 || controller.m_Rigidbody2D.velocity.y > 0)
             {
-                repairing = false;
-                GetComponent<CharacterController2D>().anime.SetBool("isFixing", false);
+				timer = 0f;
+				repairing = false;
+                animator.SetBool("isFixing", false);
             }
-            timer += Time.deltaTime;
-            if (Mathf.RoundToInt((timer % 60)) >= TimeToRepair)
+
+			timer += Time.deltaTime;
+            if (Mathf.RoundToInt(timer % 60) >= TimeToRepair)
             {
                 SpriteUpdater();
                 repairCol.gameObject.tag = "Untagged";
 
                 timer = 0f;
                 repairing = false;
-                GetComponent<CharacterController2D>().anime.SetBool("isFixing", false);
+				animator.SetBool("isFixing", false);
             }
         }
     }
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (Input.GetButtonDown(repairString) && !repairing && GetComponentInParent<CharacterSpriteSelector>().player == "p1")
+        if (repairButtonDown == true && !repairing && GetComponentInParent<CharacterSpriteSelector>().player == "p1")
         {
-            if (other.gameObject.tag == "Ceramic" && _gm.GetComponent<CharacterValues>()._characterNumber1 != 2)
-            {
-                newFucnd(other);
-            }
-            if (other.gameObject.tag == "Wood" && _gm.GetComponent<CharacterValues>()._characterNumber1 != 0)
-            {
-                newFucnd(other);
-            }
-            if (other.gameObject.tag == "Cloth" && _gm.GetComponent<CharacterValues>()._characterNumber1 != 1)
-            {
-                newFucnd(other);
+            if ((other.gameObject.tag == "Wood" && cNumber1 != 0) || 
+				(other.gameObject.tag == "Cloth" && cNumber1 != 1) || 
+				(other.gameObject.tag == "Ceramic" && cNumber1 != 2))
+			{
+				OnRepair(other);
             }
         }
-        if (Input.GetButtonDown(repairString) && !repairing && GetComponentInParent<CharacterSpriteSelector>().player == "p2")
+        if (repairButtonDown == true && !repairing && GetComponentInParent<CharacterSpriteSelector>().player == "p2")
         {
-            if (other.gameObject.tag == "Ceramic" && _gm.GetComponent<CharacterValues>()._characterNumber2 != 2)
+            if ((other.gameObject.tag == "Wood" && cNumber2 != 0) || 
+				(other.gameObject.tag == "Cloth" && cNumber2 != 1) || 
+				(other.gameObject.tag == "Ceramic" && cNumber2 != 2))
             {
-                newFucnd(other);
-            }
-            if (other.gameObject.tag == "Wood" && _gm.GetComponent<CharacterValues>()._characterNumber2 != 0)
-            {
-                newFucnd(other);
-            }
-            if (other.gameObject.tag == "Cloth" && _gm.GetComponent<CharacterValues>()._characterNumber2 != 1)
-            {
-                newFucnd(other);
+				OnRepair(other);
             }
         }
     }
 
+	private void OnTriggerExit2D(Collider2D collision)
+	{
+		timer = 0f;
+		repairing = false;
+		animator.SetBool("isFixing", false);
+	}
 
-    public void newFucnd(Collider2D other)
+	public void OnRepair(Collider2D other)
     {
         repairing = true;
-        repairCol = other;
-        GetComponent<CharacterController2D>().anime.SetBool("isFixing", true);
-    }
+        animator.SetBool("isFixing", true);
+
+		repairCol = other;
+	}
 
     public void SpriteUpdater()
     {
         objectSprite = repairCol.GetComponent<SpriteRenderer>();
-        tag = repairCol.gameObject.tag;
+        repairTag = repairCol.gameObject.tag;
         if (gameObject.GetComponentInParent<CharacterSpriteSelector>().type == "Tape")
         {
-            //Event
-            if (tag == "Ceramic")
+            if (repairTag == "Ceramic")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCeramic>().RepairWithTape(objectSprite);
                 audioSource.PlayOneShot(tapeClip, 1f);
             }
-            else if (tag == "Cloth")
+            else if (repairTag == "Cloth")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCloth>().RepairWithTape(objectSprite);
                 audioSource.PlayOneShot(tapeClip, 1f);
@@ -119,13 +131,12 @@ public class RepairScript : MonoBehaviour
         }
         if (gameObject.GetComponentInParent<CharacterSpriteSelector>().type == "Glue")
         {
-            //Event
-            if (tag == "Wood")
+            if (repairTag == "Wood")
             {
                 repairCol.gameObject.GetComponent<RepairObjectWood>().RepairWithGlue(objectSprite);
                 audioSource.PlayOneShot(glueClip, 1f);
             }
-            else if (tag == "Ceramic")
+            else if (repairTag == "Ceramic")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCeramic>().RepairWithGlue(objectSprite);
                 audioSource.PlayOneShot(glueClip, 1f);
@@ -133,13 +144,12 @@ public class RepairScript : MonoBehaviour
         }
         if (gameObject.GetComponentInParent<CharacterSpriteSelector>().type == "Nail")
         {
-            //Event
-            if (tag == "Wood")
+            if (repairTag == "Wood")
             {
                 repairCol.gameObject.GetComponent<RepairObjectWood>().RepairWithNail(objectSprite);
                 audioSource.PlayOneShot(nailClip, 1f);
             }
-            else if (tag == "Cloth")
+            else if (repairTag == "Cloth")
             { 
                 repairCol.gameObject.GetComponent<RepairObjectCloth>().RepairWithNail(objectSprite);
                 audioSource.PlayOneShot(nailClip, 1f);
