@@ -18,10 +18,21 @@ public class RepairScript : MonoBehaviour
     [SerializeField]
     string tag;
 
+    AudioSource audioSource;
+
+    [SerializeField]
+    AudioClip tapeClip;
+    [SerializeField]
+    AudioClip glueClip;
+    [SerializeField]
+    AudioClip nailClip;
+
     private void Start()
     {
         repairString = transform.parent.name + " Repair";
         _gm = GameObject.Find("GameManager(Clone)");
+
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -98,10 +109,12 @@ public class RepairScript : MonoBehaviour
             if (tag == "Ceramic")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCeramic>().RepairWithTape(objectSprite);
+                audioSource.PlayOneShot(tapeClip, 1f);
             }
             else if (tag == "Cloth")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCloth>().RepairWithTape(objectSprite);
+                audioSource.PlayOneShot(tapeClip, 1f);
             }
         }
         if (gameObject.GetComponentInParent<CharacterSpriteSelector>().type == "Glue")
@@ -110,10 +123,12 @@ public class RepairScript : MonoBehaviour
             if (tag == "Wood")
             {
                 repairCol.gameObject.GetComponent<RepairObjectWood>().RepairWithGlue(objectSprite);
+                audioSource.PlayOneShot(glueClip, 1f);
             }
             else if (tag == "Ceramic")
             {
                 repairCol.gameObject.GetComponent<RepairObjectCeramic>().RepairWithGlue(objectSprite);
+                audioSource.PlayOneShot(glueClip, 1f);
             }
         }
         if (gameObject.GetComponentInParent<CharacterSpriteSelector>().type == "Nail")
@@ -121,11 +136,13 @@ public class RepairScript : MonoBehaviour
             //Event
             if (tag == "Wood")
             {
-                repairCol.gameObject.GetComponent<RepairObjectWood>().RepairWithNail(objectSprite); 
+                repairCol.gameObject.GetComponent<RepairObjectWood>().RepairWithNail(objectSprite);
+                audioSource.PlayOneShot(nailClip, 1f);
             }
             else if (tag == "Cloth")
             { 
-                repairCol.gameObject.GetComponent<RepairObjectCloth>().RepairWithNail(objectSprite); 
+                repairCol.gameObject.GetComponent<RepairObjectCloth>().RepairWithNail(objectSprite);
+                audioSource.PlayOneShot(nailClip, 1f);
             }
         }
     }

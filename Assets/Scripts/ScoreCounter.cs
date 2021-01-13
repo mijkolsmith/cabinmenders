@@ -11,6 +11,7 @@ public class ScoreCounter : MonoBehaviour
     int points = 0;
     private GameObject _gm;
     public GameObject star;
+    public GameObject noStar;
 
     void Start()
     {
@@ -23,16 +24,21 @@ public class ScoreCounter : MonoBehaviour
         if (count == 0)
         {
             _gm.GetComponent<Timer>().playing = false;
-            Time.timeScale = 0;
-            for (int i = 90; i > int.Parse(_gm.GetComponent<Timer>().seconds); i-=30)
+            for (int i = 90; i > _gm.GetComponent<Timer>().secondsPassed; i-=30)
             {
                 points++;
             }
+            for (int i = -1; i < 2; i++)
+            {
+                Instantiate(noStar, new Vector3(4 * i, 0, 0), Quaternion.identity);
+            }
             for (int i = -1; i < points-1; i++)
             {
-                Instantiate(star, new Vector3(4*i,0,0), Quaternion.identity);
+                Instantiate(star, new Vector3(4 * i, 0, 0), Quaternion.identity);
             }
+            
             count--;
+            Time.timeScale = 0;
         }
         else if (count > 0)
         {
